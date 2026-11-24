@@ -1,4 +1,4 @@
-<img width="327" height="39" alt="image" src="https://github.com/user-attachments/assets/f4412cd2-9a2d-43fb-96fe-97be79c22f21" /># From Mean-Variance Optimization to Factor-Neutral Portfolios (KO and PEP)
+# From Mean-Variance Optimization to Factor-Neutral Portfolios (KO and PEP)
 
 How sensitive are the "optimal" weights of a two-stock portfolio (Coca-Cola and PepsiCo) to small errors in expected returns, and can regularisation and factor neutrality make them more stable?
 
