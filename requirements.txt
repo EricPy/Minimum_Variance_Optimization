@@ -1,0 +1,12 @@
+# Packages needed to run Minimum_Variance_Portfolio_fixed.ipynb
+pandas
+numpy
+statsmodels
+sympy
+lets-plot
+ipython
+jupyter
+
+# Only needed to refresh the data with download_data.py
+# yfinance
+# pandas-datareader
